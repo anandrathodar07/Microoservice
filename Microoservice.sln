@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Login", "Login.csproj", "{9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProductMaster", "ProductMaster\ProductMaster.csproj", "{2F17DFF1-EDD5-44B4-9E4B-BB82F9576176}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderMaster", "OrderMaster\OrderMaster.csproj", "{0F20F140-4811-4B9D-AD77-B67469CE7599}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{2F17DFF1-EDD5-44B4-9E4B-BB82F9576176}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2F17DFF1-EDD5-44B4-9E4B-BB82F9576176}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2F17DFF1-EDD5-44B4-9E4B-BB82F9576176}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F20F140-4811-4B9D-AD77-B67469CE7599}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F20F140-4811-4B9D-AD77-B67469CE7599}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F20F140-4811-4B9D-AD77-B67469CE7599}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F20F140-4811-4B9D-AD77-B67469CE7599}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
