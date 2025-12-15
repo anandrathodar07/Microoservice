@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderMaster", "OrderMaster\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayementMaster", "PayementMaster\PayementMaster.csproj", "{12B4F2DC-A1DC-48ED-B201-BC77AADF4649}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InventryMaster", "InventryMaster\InventryMaster.csproj", "{BC3154AC-FF20-400E-A475-79391C605EBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{12B4F2DC-A1DC-48ED-B201-BC77AADF4649}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12B4F2DC-A1DC-48ED-B201-BC77AADF4649}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12B4F2DC-A1DC-48ED-B201-BC77AADF4649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC3154AC-FF20-400E-A475-79391C605EBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC3154AC-FF20-400E-A475-79391C605EBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC3154AC-FF20-400E-A475-79391C605EBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC3154AC-FF20-400E-A475-79391C605EBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
